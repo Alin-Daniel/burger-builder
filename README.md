@@ -1,3 +1,19 @@
+## Introduction
+
+I created this beautiful responsive app with React, Redux, Axios and Firebase for back-end that allows you to create a burger.
+It has authentication, you can also order a burger and also check your order details and delete them.This app was created following a tutorial.
+
+## App link
+You can see it live on Github Pages [here](https://alin-daniel.github.io/burger-builder/)
+
+## Technologies:
+
+- ReactJS
+- Redux
+- Firebase
+- Axios
+- CSS modules
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
